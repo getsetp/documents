@@ -1,2 +1,0 @@
-# documents
-Company related documents
